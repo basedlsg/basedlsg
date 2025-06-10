@@ -3,6 +3,12 @@
 
 Hi there 👋 I'm Carlos, a technology enthusiast and expert coder passionate about diving head-first into complex projects and bringing innovative ideas to life. From Detroit's streets to global tech hubs, I build technologies that bridge worlds and enhance human potential.
 
+<p align="center">
+  <img alt="basedlsg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=basedlsg&show_icons=true&theme=radical&count_private=true&rank_icon=github"/>
+  <br/>
+  <img alt="basedlsg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basedlsg&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
 ## 🌟 Core Experience & Highlights
 - Led the development of full-scale applications for educational institutions, impacting over 30,000 students.
 - Designed and delivered cutting-edge digital portfolios for top fashion designers.
@@ -22,7 +28,13 @@ Hi there 👋 I'm Carlos, a technology enthusiast and expert coder passionate ab
 - **Research Collaboration** with Imperial College London, focusing on VR applications for consciousness studies.
 
 ## 🛠️ Tech Stack & Expertise
-- **Primary Expertise**: Unreal Engine (C++, Blueprint), VR Development, AI/ML (TensorFlow, LLM Fine-tuning, Custom Emotion Recognition Systems), 3D Creation (Maya, Procedural Environments, Character Rigging)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unrealengine,cpp,python,tensorflow,maya,web3,javascript,nodejs,react,pytorch,docker&theme=light" />
+  </a>
+</p>
+
+- **Primary Expertise Areas**: Unreal Engine (C++, Blueprint), VR Development, AI/ML (TensorFlow, LLM Fine-tuning, Custom Emotion Recognition Systems), 3D Creation (Maya, Procedural Environments, Character Rigging)
 - **Proficient In**: Web3 Development, Full-Stack Application Architecture
 - **Key Interests**: Cross-Cultural Technology Implementation, Ethical AI Frameworks, Consciousness Studies
 
@@ -32,4 +44,9 @@ Driven by a vision to make transformative technologies accessible across cultura
 *"The most powerful technologies are those that bridge different worlds while making transformation accessible to everyone."*
 
 ## 📫 Let's Connect
+<p align="left">
+  <a href="mailto:Flareondon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/CarlosShields" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 Always open to collaborating on meaningful innovation and discussing the future of human-technology interaction. 
