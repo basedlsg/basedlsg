@@ -1,7 +1,7 @@
 # Carlos Shields-Davis
 **Technology Entrepreneur | VR/AI Developer | Head of Technology Investments**
 
-Hi there 👋 I'm Carlos, a technology enthusiast and expert coder passionate about diving head-first into complex projects and bringing innovative ideas to life. From Detroit's streets to global tech hubs, I build technologies that bridge worlds and enhance human potential.
+Hi there 👋 I'm Carlos, a technology enthusiast who's passionate about using new technologies to bring innovative and relevant solutions to life. Initially from Detroit -- I've travled the globe working with some of the world's top companies to bring intriguing ideas to market..
 
 <p align="center">
   <img alt="basedlsg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=basedlsg&show_icons=true&theme=radical&count_private=true&rank_icon=github"/>
@@ -10,14 +10,14 @@ Hi there 👋 I'm Carlos, a technology enthusiast and expert coder passionate ab
 </p>
 
 ## 🌟 Core Experience & Highlights
-- Led the development of full-scale applications for educational institutions, impacting over 30,000 students.
-- Designed and delivered cutting-edge digital portfolios for top fashion designers.
-- Extensive experience in AI research, including fine-tuning Large Language Models (LLMs).
-- Proven Unreal Engine expert, developing immersive experiences for high-profile clients such as Justin Bieber, BOSE, and Capitol Records.
+- Led the development of full-scale applications for educational institutions, impacting over 30,000 students. -- Initially starting as a Replit experiment, we scaled to 6 schools and answered over 80k questions. 
+- Designed and delivered cutting-edge digital portfolios for top fashion designers. -- We partnered with my Masters Alma Mater University of The Arts, London to create a portfolio system for 3D/Design students which helped them organize their information in an easy to read way.
+- Extensive experience in AI research, including fine-tuning LLMs. 
+- Proven Unreal Engine expert, developing immersive experiences for high-profile clients such as Justin Bieber, BOSE, and Capitol Records. 
 - Successfully led projects raising over $500k, with backing from prominent investors including Google and Spin Magazine.
 - Developed innovative products for the Web3 space, spanning games and decentralized applications.
 
-## 🚀 Spotlight: Sidekicks AI (2020-2023)
+## 🚀 Spotlight: Sidekicks AI (2020-2023) [http://sidekicks.ai]
 - As a key figure, I engineered holographic AI assistants featuring privacy-preserving emotional intelligence, primarily utilizing Unreal Engine.
 - Secured over $1.1M in funding for the venture.
 - Sidekicks AI was recognized among the global top 50 startups and achieved international deployment through a World Economic Forum partnership.
